@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+input {
+  padding: 10px;
+  margin: 20px;
+  border-radius: 20px;
+}
+.main {
+  margin-top: 5%;
+  width: 50%;
+  margin-left: 28%;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
